@@ -11,7 +11,7 @@ const Jsuser = {
      
       name : "Ankita",
       age : 20,
-      location : Satna ,
+      location : "Satna" ,
       email: "ankita@gmail.com",
       isLoggedIn : false,
       lastLoginDays : ["monday","saturday"],
