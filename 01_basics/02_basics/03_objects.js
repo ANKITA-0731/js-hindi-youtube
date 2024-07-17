@@ -37,14 +37,17 @@ const  Jsuser = {
        console.log("Hello JS user");
               }
 
+
+   
+   Jsuser.greetingTwo = function(){
+     console.log('Hello JS user,${this.name}')
+            }
+
+            console.log(Jsuser.greeting());
+            console.log(Jsuser.greetingTwo());
+
+              
+              
               
 
-              Jsuser.greetingTwo = function(){
-                  console.log('Hello JS user, ${this.name}');
-           
-                         // console.log(Jsuser.greeting());
-                         // console.log(Jsuser.greetingTwo());
-
-                
-
-
+              
