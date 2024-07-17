@@ -42,11 +42,13 @@ const  Jsuser = {
               Jsuser.greetingTwo = function(){
                   console.log('Hello JS user, ${this.name}');
            
-                         console.log(Jsuser.greeting());
-                         console.log(Jsuser.greetingTwo());
+                         // console.log(Jsuser.greeting());
+                         // console.log(Jsuser.greetingTwo());
 
                 
-
+users[1].email
+console.log(tinderuser); 
+console.log(Object.keys(tinderuser));
 
 
 
