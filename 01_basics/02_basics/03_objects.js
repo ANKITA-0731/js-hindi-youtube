@@ -46,11 +46,5 @@ const  Jsuser = {
                          // console.log(Jsuser.greetingTwo());
 
                 
-users[1].email
-console.log(tinderuser); 
-console.log(Object.keys(tinderuser));
-
-
-
 
 
